@@ -28,8 +28,8 @@ Usuários devem ser capazes de:
 
 ### Links
 
-- Solução: [Add solution URL here](https://your-solution-url.com)
-- Site: [Add live site URL here](https://your-live-site-url.com)
+- Solução: [https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-and-js-wYeFQwDF7f](https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-and-js-wYeFQwDF7f)
+- Site: [https://eikidev.github.io/blogr-landing-page/](https://your-live-https://eikidev.github.io/blogr-landing-page/)
 
 ## Processo
 
